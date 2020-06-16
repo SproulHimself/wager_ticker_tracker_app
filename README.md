@@ -2,4 +2,4 @@
 
 ### Application for tracking wager tickets and receiving notifications based on ticket results
 
-#### ** Currntly under construction **
+#### ** Currently under construction **
