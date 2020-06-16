@@ -1,3 +1,5 @@
-## Application for tracking wager tickets and receiving notifications based on ticket results
+# Wager Ticker Tracker App
 
-### Under construction
+### Application for tracking wager tickets and receiving notifications based on ticket results
+
+#### ** Currntly under construction **
